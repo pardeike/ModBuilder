@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModBuilder", "ModBuilder\ModBuilder.csproj", "{BDAC72EA-02E8-4EA6-BC3E-0583B357115B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDAC72EA-02E8-4EA6-BC3E-0583B357115B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDAC72EA-02E8-4EA6-BC3E-0583B357115B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDAC72EA-02E8-4EA6-BC3E-0583B357115B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDAC72EA-02E8-4EA6-BC3E-0583B357115B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16FAAA9C-B01D-44F9-840F-E296BBE6D500}
+	EndGlobalSection
+EndGlobal
